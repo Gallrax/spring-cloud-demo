@@ -1,4 +1,3 @@
-==============
 # 简介
 Spring Cloud体系简单demo，目前集成eureka注册中心，Ribbon、Feign消费者负载均衡以及Ribbbon消费者Hystrix熔断
 注:Spring Cloud依赖Spring Boot
